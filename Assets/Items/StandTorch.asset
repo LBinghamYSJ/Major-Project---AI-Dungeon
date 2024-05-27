@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d99fa9f9efdf9b4da759a7fc122c5ad, type: 3}
+  m_Name: StandTorch
+  m_EditorClassIdentifier: 
+  sprite: {fileID: -1777885460, guid: 7e0271131d5678043b21efa498f4e562, type: 3}
+  size: {x: 1, y: 1}
+  placementType: 1
+  addOffset: 0
+  health: -1
+  nonDestructible: 1
